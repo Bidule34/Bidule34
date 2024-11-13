@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bidule34, Maël
+- 👋 Hi, I’m Maël
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning Python Html/css Javascript
 - 💞️ I’m looking to collaborate on some schools projects
-- ⚡ Fun fact: I'm 16yo
+- ⚡ I'm 16yo and want to join an informatic school
 
 <!---
 Bidule34/Bidule34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
